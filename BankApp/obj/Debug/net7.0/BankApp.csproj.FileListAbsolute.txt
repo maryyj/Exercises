@@ -1,0 +1,14 @@
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\BankApp\bin\Debug\net7.0\BankApp.exe
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\BankApp\bin\Debug\net7.0\BankApp.deps.json
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\BankApp\bin\Debug\net7.0\BankApp.runtimeconfig.json
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\BankApp\bin\Debug\net7.0\BankApp.dll
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\BankApp\bin\Debug\net7.0\BankApp.pdb
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\BankApp\obj\Debug\net7.0\BankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\BankApp\obj\Debug\net7.0\BankApp.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\BankApp\obj\Debug\net7.0\BankApp.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\BankApp\obj\Debug\net7.0\BankApp.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\BankApp\obj\Debug\net7.0\BankApp.dll
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\BankApp\obj\Debug\net7.0\refint\BankApp.dll
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\BankApp\obj\Debug\net7.0\BankApp.pdb
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\BankApp\obj\Debug\net7.0\BankApp.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\BankApp\obj\Debug\net7.0\ref\BankApp.dll

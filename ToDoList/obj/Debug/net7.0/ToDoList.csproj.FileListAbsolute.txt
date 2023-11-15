@@ -1,0 +1,14 @@
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\ToDoList\bin\Debug\net7.0\ToDoList.exe
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\ToDoList\bin\Debug\net7.0\ToDoList.deps.json
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\ToDoList\bin\Debug\net7.0\ToDoList.runtimeconfig.json
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\ToDoList\bin\Debug\net7.0\ToDoList.dll
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\ToDoList\bin\Debug\net7.0\ToDoList.pdb
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\ToDoList\obj\Debug\net7.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\ToDoList\obj\Debug\net7.0\ToDoList.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\ToDoList\obj\Debug\net7.0\ToDoList.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\ToDoList\obj\Debug\net7.0\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\ToDoList\obj\Debug\net7.0\ToDoList.dll
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\ToDoList\obj\Debug\net7.0\refint\ToDoList.dll
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\ToDoList\obj\Debug\net7.0\ToDoList.pdb
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\ToDoList\obj\Debug\net7.0\ToDoList.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\ToDoList\obj\Debug\net7.0\ref\ToDoList.dll

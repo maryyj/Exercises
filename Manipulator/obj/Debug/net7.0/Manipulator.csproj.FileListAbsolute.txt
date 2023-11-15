@@ -1,0 +1,14 @@
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\Manipulator\bin\Debug\net7.0\Manipulator.exe
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\Manipulator\bin\Debug\net7.0\Manipulator.deps.json
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\Manipulator\bin\Debug\net7.0\Manipulator.runtimeconfig.json
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\Manipulator\bin\Debug\net7.0\Manipulator.dll
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\Manipulator\bin\Debug\net7.0\Manipulator.pdb
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\Manipulator\obj\Debug\net7.0\Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\Manipulator\obj\Debug\net7.0\Manipulator.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\Manipulator\obj\Debug\net7.0\Manipulator.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\Manipulator\obj\Debug\net7.0\Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\Manipulator\obj\Debug\net7.0\Manipulator.dll
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\Manipulator\obj\Debug\net7.0\refint\Manipulator.dll
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\Manipulator\obj\Debug\net7.0\Manipulator.pdb
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\Manipulator\obj\Debug\net7.0\Manipulator.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\Manipulator\obj\Debug\net7.0\ref\Manipulator.dll

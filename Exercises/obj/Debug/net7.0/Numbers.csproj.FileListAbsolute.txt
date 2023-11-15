@@ -1,0 +1,14 @@
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\Exercises\bin\Debug\net7.0\Numbers.exe
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\Exercises\bin\Debug\net7.0\Numbers.deps.json
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\Exercises\bin\Debug\net7.0\Numbers.runtimeconfig.json
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\Exercises\bin\Debug\net7.0\Numbers.dll
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\Exercises\bin\Debug\net7.0\Numbers.pdb
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\Exercises\obj\Debug\net7.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\Exercises\obj\Debug\net7.0\Numbers.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\Exercises\obj\Debug\net7.0\Numbers.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\Exercises\obj\Debug\net7.0\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\Exercises\obj\Debug\net7.0\Numbers.dll
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\Exercises\obj\Debug\net7.0\refint\Numbers.dll
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\Exercises\obj\Debug\net7.0\Numbers.pdb
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\Exercises\obj\Debug\net7.0\Numbers.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Systemutveckling\Cleancode-devops\Uppgifter\Exercises\Exercises\obj\Debug\net7.0\ref\Numbers.dll
