@@ -4,7 +4,7 @@ on:
   push:
     branches: [ main ]
 env:
-  DOTNET_VERSION: '6.0.401'
+  DOTNET_VERSION: '7.0.100'
   
 jobs:
   run-unit-tests:
