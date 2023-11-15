@@ -1,0 +1,30 @@
+name: Run Unit Tests
+
+on: 
+  push:
+    branches: [ main ]
+env:
+  DOTNET_VERSION: '6.0.401'
+  
+jobs:
+  run-unit-tests:
+    name: Unit Testing
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo ##create action
+        uses: actions/checkout@v4.1.1 ##uses the checkout extension from github-marketplace
+
+      - name: Set up .NET Core
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: ${{ env.DOTNET_VERSION }}
+          
+      - name: Install Dependencies
+        run: dotnet restore
+
+      - name: Build
+        run: dotnet build --configuration Release --no-restore
+
+      - name: Run Unit Tests
+        run: dotnet test TodoApp/ToDoList.Tests/ToDoListTests.cs
