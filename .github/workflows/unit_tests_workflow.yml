@@ -27,4 +27,4 @@ jobs:
         run: dotnet build --configuration Release --no-restore
 
       - name: Run Unit Tests
-        run: dotnet test TodoApp/ToDoList.Tests/ToDoList.Tests.csproj
+        run: dotnet test ToDoList.Tests/ToDoList.Tests.csproj
