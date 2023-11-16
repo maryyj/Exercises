@@ -5,7 +5,7 @@ on:
       fail_my_step:
         description: 'Shall we fail the step? (yes/no)'
         required: true
-        type: string ##kan även fara boolean
+        type: string
         default: yes
 jobs:
   the-best-job:
