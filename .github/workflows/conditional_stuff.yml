@@ -10,6 +10,8 @@ on:
 jobs:
   the-best-job:
     runs-on: ubuntu-latest
+    env:
+      FAIL_MY_STEP: ${{ inputs.fail_my_step }}
     steps:
       - name: Yes was passed in as 'fail_my_step'
         if: inputs.fail_my_step == 'yes'
@@ -23,9 +25,9 @@ jobs:
         ## man kan definiera vilke shell som ska köras 
         shell: bash
         run: |
-          echo "Hello, I may fail"
+          echo "Hello, I may fail by reading the env var FAIL_MY_STEP, which is set tp ${{ inputs.fail_my_step}}"
           ##i bash ser den conditional ut såhär, måste vara mellan rum i brackets [ "" ]
-          if [ "yes" = "${{ inputs.fail_my_step }}" ]; then
+          if [ "yes" = "$FAIL_MY_STEP" ]; then
             exit 42
           fi 
 
