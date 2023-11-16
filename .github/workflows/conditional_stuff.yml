@@ -1,0 +1,20 @@
+name: Contidional examples
+on: 
+  workflow_dispatch:
+    inputs:
+      fail_my_step:
+        description: 'Shall we fail the step? (yes/no)'
+        required: true
+        type: string ##kan även fara boolean
+        default: yes
+jobs:
+  the-best-job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Yes was passed in as 'fail_my_step'
+        if: inputs.fail_my_step == 'yes'
+        run: echo "you said yes!!"
+
+      - name: No was passed in as 'fail_my_step'
+        run: echo "you said no!! :("
+        if: inputs.fail_my_step == 'no'
