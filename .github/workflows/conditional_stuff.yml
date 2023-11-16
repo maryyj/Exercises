@@ -18,3 +18,19 @@ jobs:
       - name: No was passed in as 'fail_my_step'
         run: echo "you said no!! :("
         if: inputs.fail_my_step == 'no'
+      
+      - name: Step that may fail
+        ## man kan definiera vilke shell som ska köras 
+        shell: bash
+        run: |
+          echo "Hello, I may fail"
+          ##i bash ser den conditional ut såhär, måste vara mellan rum i brackets [ "" ]
+          if [ "yes" = "${{ inputs.fail_my_step }}" ]; then
+            exit 42
+          fi 
+
+      - name: Another step
+        run: echo "another step..."
+ 
+      - name: Another step
+        run: echo "another step..."
